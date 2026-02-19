@@ -10,7 +10,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> TECH STACK
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,tailwindcss,nodejs,react,redux,django,dart,flutter,androidstudio,mongodb,npm,nestjs,aws,postman,postgres,yarn,graphql,py)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Roydelangel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Roydelangel&theme=dark&hide_border=false)<br/>
