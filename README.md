@@ -7,18 +7,6 @@
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4N2xvc215am0wZWZ3dnZoOW5ndnBheGdvbXliZGE1ajZpMHIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width = 170px></picture>
 Desarrollador Front-end con más de tres años de experiencia, <br>construyo interfaces de usuario atractivas y funcionales, he colaborado en varios<br>proyectos freelancers manteniendo APis e implementación de diseño responsive.<br><br>Desarrollador móvil creando aplicaciones desde cero como tiendas virtuales,<br>control de inventarios incluyendo la optimización de los mismos.
 
-
-## 🌐 Socials:
-<p align="center"">
- 
-<a href="roydelangelaguero@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-        <a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-        <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-        <a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-
-	
-</p>
-
 <br>          
 <br>          
         
@@ -37,13 +25,20 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Roydelangel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Roydelangel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+<p align="center" >
+
+<a href="roydelangelaguero@gmail.com"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1e85df88-b23a-49f8-8d23-1f16a3e41fa1" alt="Gmail"/></a>
+        <a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5a689d6b-d3e1-438c-a927-ea8c671ce339" alt="LinkedIn"/></a>
+        <a href="https://www.facebook.com/roydel.angel"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ff1513a6-640b-404d-afac-97f0e1747a6a" alt="Facebook"/></a>
+        <a href="https://instagram.com/roydel__"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f85d86a6-c144-4912-a04b-3175fcfe7be0" alt="Telegram"/></a>
+
+	
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
