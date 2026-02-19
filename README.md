@@ -30,7 +30,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
-## 🌐 Socials:
+## 🌐 Contact me:
 <p align="center" >
 
 <a href="roydelangelaguero@gmail.com"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1e85df88-b23a-49f8-8d23-1f16a3e41fa1" alt="Gmail"/></a>
