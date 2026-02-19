@@ -35,7 +35,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 <a href="roydelangelaguero@gmail.com"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1e85df88-b23a-49f8-8d23-1f16a3e41fa1" alt="Gmail"/></a>
         <a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5a689d6b-d3e1-438c-a927-ea8c671ce339" alt="LinkedIn"/></a>
-        <a href="https:/https://www.facebook.com/share/1G6EDZFJB4/?mibextid=wwXIfr"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ff1513a6-640b-404d-afac-97f0e1747a6a" alt="Facebook"/></a>
+        <a href="https:/www.facebook.com/share/1G6EDZFJB4/?mibextid=wwXIfr"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ff1513a6-640b-404d-afac-97f0e1747a6a" alt="Facebook"/></a>
         <a href="https://@RoydelAngel003"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f85d86a6-c144-4912-a04b-3175fcfe7be0" alt="Telegram"/></a>
 
 	
