@@ -1,20 +1,33 @@
 <h1 align="center">Hi , I'm Roydel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4N2xvc215am0wZWZ3dnZoOW5ndnBheGdvbXliZGE1ajZpMHIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width = 190px></picture>
 Desarrollador Front-end con más de tres años de experiencia, <br>construyo interfaces de usuario atractivas y funcionales, he colaborado en varios<br>proyectos freelancers manteniendo APis e implementación de diseño responsive.<br><br>Desarrollador móvil creando aplicaciones desde cero como tiendas virtuales,<br>control de inventarios incluyendo la optimización de los mismos.
 
 
 ## 🌐 Socials:
-[![Facebook]](https://facebook.com/Roydel Angel Agüero) [![Instagram]https://www.instagram.com/roydel__?igsh=cGE0dTA5c2ZwcjAx&utm_source=qr(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@roydel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Roydel  Angel Agüero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@roydelaguero) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roydelangelaguero@gmail.com) 
+<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/ravirajsolanki27/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/></a>
+
+
+<br>          
+<br>          
+        
+          
 
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> TECH STACK
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,tailwindcss,nodejs,react,redux,django,dart,flutter,androidstudio,mongodb,npm,nestjs,aws,postman,postgres,yarn,graphql,py)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roydelangel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Roydelangel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roydelangel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,tailwindcss,nodejs,react,redux,django,dart,flutter,androidstudio,mongodb,npm,nestjs,aws,fastapi,postman,postgres,yarn,graphql,py)](https://skillicons.dev)
+
+<br>
+<br>
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roydelangel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
