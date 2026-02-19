@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Desarrollador Front-end con más de tres años de experiencia, <br>construyo interfaces de usuario atractivas y funcionales, he colaborado en varios<br>proyectos freelancers manteniendo APis e implementación de diseño responsive.<br><br>Desarrollador móvil creando aplicaciones desde cero como tiendas virtuales,<br>control de inventarios incluyendo la optimización de los mismos.
 
 
