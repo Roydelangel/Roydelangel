@@ -5,8 +5,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4N2xvc215am0wZWZ3dnZoOW5ndnBheGdvbXliZGE1ajZpMHIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width = 170px></picture>
+<p>
 Desarrollador Front-end con más de tres años de experiencia, <br>construyo interfaces de usuario atractivas y funcionales, he colaborado en varios<br>proyectos freelancers manteniendo APis e implementación de diseño responsive.<br><br>Desarrollador móvil creando aplicaciones desde cero como tiendas virtuales,<br>control de inventarios incluyendo la optimización de los mismos.
-
+</p>
 <br>          
 <br>          
         
