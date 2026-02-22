@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Roydel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front-end+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -14,7 +14,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> TECH STACK
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,tailwindcss,nodejs,react,redux,django,dart,flutter,androidstudio,mongodb,npm,nestjs,aws,fastapi,postman,postgres,yarn,graphql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,git,tailwindcss,nodejs,react,redux,dart,flutter,androidstudio,mongodb,npm,nestjs,nextjs,aws,fastapi,postman,postgres,yarn,graphql,py,django)](https://skillicons.dev)
 
 <br>
 <br>
@@ -30,15 +30,15 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
-## 🌐 Contact me:
-<p align="center" >
-
-<a href="roydelangelaguero@gmail.com"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1e85df88-b23a-49f8-8d23-1f16a3e41fa1" alt="Gmail"/></a>
-        <a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5a689d6b-d3e1-438c-a927-ea8c671ce339" alt="LinkedIn"/></a>
-        <a href="https:/www.facebook.com/share/1G6EDZFJB4/?mibextid=wwXIfr"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ff1513a6-640b-404d-afac-97f0e1747a6a" alt="Facebook"/></a>
-        <a href="https://@RoydelAngel003"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f85d86a6-c144-4912-a04b-3175fcfe7be0" alt="Telegram"/></a>
-
-	
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center" widht="200px">
+	<a href="roydelangelaguero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+	
+	
+	
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
