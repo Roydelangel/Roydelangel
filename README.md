@@ -69,7 +69,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px"> </picture> Contact
 <p align="center">
 	<a href="mailto:roydelangelaguero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="110px" alt="Gmail"/></a>
 	<a href="https://w.app/q30y2z"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" width="150px" alt="Whatsapp"/></a>
