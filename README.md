@@ -42,7 +42,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,mongodb,postgres,sqlite,django,aws,postman,npm,yarn,graphql,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,mongodb,postgres,sqlite,django,aws,postman,npm,yarn,graphql,vercel,powershell" />
   </a>
 </p>
 
