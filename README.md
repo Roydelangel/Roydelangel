@@ -26,7 +26,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwindcss,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss,flutter" />
   </a>
 </p>
 
