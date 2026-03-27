@@ -1,15 +1,27 @@
 <h1 align="center">Hi , I'm Roydel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front-end+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;Front-end+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o4N2xvc215am0wZWZ3dnZoOW5ndnBheGdvbXliZGE1ajZpMHIwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width = 170px></picture>
 <p>
-Desarrollador Front-end con más de tres años de experiencia, <br>construyo interfaces de usuario atractivas y funcionales, he colaborado en varios<br>proyectos freelancers manteniendo APis e implementación de diseño responsive.<br><br>Desarrollador móvil creando aplicaciones desde cero como tiendas virtuales,<br>control de inventarios incluyendo la optimización de los mismos.
+Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-stack, especializado en el diseño e implementación de aplicaciones escalables, seguras y de alto rendimiento. Dominio avanzado de arquitecturas modernas basadas en microservicios, APIs RESTful y desarrollo frontend con frameworks contemporáneos, así como backend en entornos Node.js. Implementación y gestión de infraestructuras escalables y eficientes, poseo un sólido conocimiento en metodologías ágiles y en la integración continua/entrega continua (CI/CD), lo que me permite optimizar procesos y mejorar la calidad del software.
 </p>
 <br>          
+<br>  
+
+---
+[![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px"> </picture> Contact
+<p align="center">
+	<a href="mailto:roydelangelaguero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="75px" alt="Gmail"/></a>
+	<a href="https://w.app/q30y2z"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" width="100px" alt="Whatsapp"/></a>
+	<a href="https://t.me/RoydelAngel003"><img src="https://img.shields.io/badge/telegram-%230A66C2.svg?style=plastic&logo=telegram&logoColor=white" width="100px" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/share/16ybvbL9eq/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" width="100px" alt="Facebook"/></a>
+</p>
 <br>          
+<br>  
         
           
 
@@ -26,7 +38,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,vuejs,react,bootstrap,tailwindcss,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,vuejs,astro,angular,react,bootstrap,tailwindcss,flutter" />
   </a>
 </p>
 
@@ -42,7 +54,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,mongodb,postgres,sqlite,django,aws,postman,npm,yarn,graphql,vercel" />
+    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,androidstudio,mongodb,postgres,sqlite,kubernetes,aws,postman,npm,yarn,jenkins,vercel" />
   </a>
 </p>
 
@@ -67,16 +79,7 @@ Desarrollador Front-end con más de tres años de experiencia, <br>construyo int
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px"> </picture> Contact
-<p align="center">
-	<a href="mailto:roydelangelaguero@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="75px" alt="Gmail"/></a>
-	<a href="https://w.app/q30y2z"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" width="100px" alt="Whatsapp"/></a>
-	<a href="https://t.me/RoydelAngel003"><img src="https://img.shields.io/badge/telegram-%230A66C2.svg?style=plastic&logo=telegram&logoColor=white" width="100px" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/share/16ybvbL9eq/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" width="100px" alt="Facebook"/></a>
-</p>
-	
+
 	
 	
 
