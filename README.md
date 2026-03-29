@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Roydel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;Front-end+Developer;React+Native+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Dev-Ops&center=true&width=500&height=50"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -54,7 +54,7 @@ Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-
 <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,androidstudio,mongodb,postgres,sqlite,kubernetes,aws,postman,npm,yarn,jenkins,vercel" />
+    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,androidstudio,mongodb,postgres,sqlite,kubernetes,aws,postman,jenkins,vercel,netlify" />
   </a>
 </p>
 
