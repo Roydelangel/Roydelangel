@@ -8,9 +8,7 @@
 <p>
 Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-stack, especializado en el diseño e implementación de aplicaciones escalables, seguras y de alto rendimiento. Dominio avanzado de arquitecturas modernas basadas en microservicios, APIs RESTful y desarrollo frontend con frameworks contemporáneos, así como backend en entornos Node.js. Implementación y gestión de infraestructuras escalables y eficientes, poseo un sólido conocimiento en metodologías ágiles y en la integración continua/entrega continua (CI/CD), lo que me permite optimizar procesos y mejorar la calidad del software.
 </p>
-<br>          
-<br>  
-
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roydelangel&icon=9&color=0)](https://visitcount.itsvg.in)
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="200px"> </picture> Contact
@@ -21,9 +19,7 @@ Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-
 	<a href="https://www.facebook.com/share/16ybvbL9eq/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" width="100px" alt="Facebook"/></a>
 </p>
 <br>          
-<br>  
-        
-          
+ 
 
 ## 🛠️ Tech Stack
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -66,10 +62,6 @@ Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 		
-<br>
-<br>
-
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Roydel" /></p>
 
