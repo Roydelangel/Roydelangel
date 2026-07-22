@@ -42,7 +42,7 @@ Desarrollador con más de 5 años de sólida experiencia en desarrollo web full-
  <p align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,nextjs,django" />
   </a>
 </p>
 
